@@ -22,7 +22,7 @@ repository: "brodydebettignies/brodydebettignies.github.io"
 author:
   # Biographic information
 author:
-  avatar : "profile2.png"
+  avatar : "/profile2.png"
   name   : "Broderick J. DeBettignies"
   pronouns: ""
   bio    : "Ph.D. Candidate in Political Science at the University of Iowa"
