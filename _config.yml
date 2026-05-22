@@ -30,14 +30,22 @@ author:
   email : "broderick-debettignies@uiowa.edu"
   uri : ""
 
-  links:
+links:
+    - label: "Department Profile"
+      icon: "fas fa-fw fa-university"
+      url: "https://politicalscience.uiowa.edu/people/brody-debettignies"
+
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:broderick-debettignies@uiowa.edu"
 
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/files/DeBettignies_CV.pdf" 
+      url: "/files/DeBettignies_CV.pdf"
+
+    - label: "ORCID"
+      icon: "ai ai-orcid-square ai-fw"
+      url: "https://orcid.org/0009-0007-3270-3295" 
 
 # Academic websites
     - label: "Department Profile"
